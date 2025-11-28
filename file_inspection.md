@@ -84,7 +84,7 @@ sudo chown root:root example.txt
 ls -l
 -rw-rw-r-- 1 root root 0 Jul 29 15:11 example.txt
 ```
-`chmod` означает "change mode" (изменить режим)
+`chmod` означает "change mode" (изменить режим)<br>
 `sudo chmod 700 example.txt`
 
 700 - это числовое представление прав доступа:
